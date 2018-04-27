@@ -4,6 +4,8 @@
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
         <listEntry value="/CalendarFXApp/src/main/java/com/calendarfx/app/CalendarApp.java"/>
     </listAttribute>
+    
+    
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
